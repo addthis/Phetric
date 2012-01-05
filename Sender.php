@@ -50,8 +50,6 @@ class Phetric_Sender
     private $_data = array( );
 
 
-    /*  Becouse we need to set Bias to true */
-    const FOX_NEWS = true;
 
     /**
      * Define, identify and register the sending of our metrics.
@@ -161,7 +159,7 @@ class Phetric_Sender
      * @param int $value The amount you want to increment or decrement.  Defaults to 1
      * @param bool $bias if true, Exponential decay histogram (favor more recent)
     */
-    public static function histogram( $name, $value = 1, $bias = FOX_NEWS )
+    public static function histogram( $name, $value = 1, $bias = TRUE )
     {
         self::maybeCreatePhetric();
         $type = ($bias) ? 'biased' : 'uniform' ;
