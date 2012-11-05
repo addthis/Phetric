@@ -1,4 +1,3 @@
-
 # Phetric
 
 Phetric is a library that allow you to send PHP application-level metrics to a
@@ -132,7 +131,7 @@ Phetric: http://github.com/clearspring/Phetric
 
 ## Jobs
 
-When this was written, Clearpsirng was hiring; even if the blame on this line is
+When this was written, Clearspring was hiring; even if the blame on this line is
 from long ago, we probably still are.  Check out http://clearspring.com/jobs if
 you're intersted in doing webapps, working with Big Data, and like smart, fun
 coworkers.  Clearspring is based just outside of Washington, DC (Tysons Corner)
