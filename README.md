@@ -108,21 +108,21 @@ $yellow->mark(13);
 ## Checking the data you are sending
 
 If you don't want run a local copy of MetricCatcher, this bash function will use netcat to listen on 1420 and output anything that arrives on UDP.   
-``
+```
 catcher(){
     while true;
     do
         nc -w 1 -l -u 1420;
     done;
 }
-
+```
 
 # Administrivia
 
 ## Author
 
 MetricCatcher was written by [Aaron Jorbin](http://aaron.jorb.in)
-<jorbin@clearspring.com> of [Clearspring](http://clearspring.com).
+<aaron@jorb.in> while at [Clearspring](http://clearspring.com).
 
 ## Bugs & so forth
 
@@ -132,7 +132,7 @@ Phetric: http://github.com/clearspring/Phetric
 ## Jobs
 
 When this was written, Clearspring was hiring; even if the blame on this line is
-from long ago, we probably still are.  Check out http://clearspring.com/jobs if
+from long ago, we probably still are.  Check out http://www.addthis.com/careers if
 you're intersted in doing webapps, working with Big Data, and like smart, fun
 coworkers.  Clearspring is based just outside of Washington, DC (Tysons Corner)
 and has offices in New York, Los Angeles, and beyond.
