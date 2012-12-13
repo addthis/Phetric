@@ -121,8 +121,11 @@ catcher(){
 
 ## Author
 
-MetricCatcher was written by [Aaron Jorbin](http://aaron.jorb.in)
+Phetric was written by [Aaron Jorbin](http://aaron.jorb.in)
 <aaron@jorb.in> while at [Clearspring](http://clearspring.com).
+
+## Using Phetric with Composer
+Phetric is available on [packagist](https://packagist.org/packages/clearspring/phetric) thanks to https://github.com/ammmze
 
 ## Bugs & so forth
 
