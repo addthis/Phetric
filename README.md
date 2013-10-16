@@ -8,7 +8,7 @@ that then makes them available in a fun and interesting way.
 
 Licensed under the MIT licenses.
 
-Copyright (c) 2011 Clearspring
+Copyright (c) 2013 AddThis 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -122,21 +122,21 @@ catcher(){
 ## Author
 
 Phetric was written by [Aaron Jorbin](http://aaron.jorb.in)
-<aaron@jorb.in> while at [Clearspring](http://clearspring.com).
+<aaron@jorb.in> while at [AddThis](http://addthis.com).
 
 ## Using Phetric with Composer
-Phetric is available on [packagist](https://packagist.org/packages/clearspring/phetric) thanks to https://github.com/ammmze
+Phetric is available on [packagist](https://packagist.org/packages/addthis/phetric) thanks to https://github.com/ammmze
 
 ## Bugs & so forth
 
 Please reqport bugs or request new features at the GitHub page for
-Phetric: http://github.com/clearspring/Phetric
+Phetric: http://github.com/addthis/Phetric
 
 ## Jobs
 
-When this was written, Clearspring was hiring; even if the blame on this line is
-from long ago, we probably still are.  Check out http://www.addthis.com/careers if
+When this was written, AddThis was hiring; even if the blame on this line is
+from long ago, they probably still are.  Check out http://www.addthis.com/careers if
 you're intersted in doing webapps, working with Big Data, and like smart, fun
-coworkers.  Clearspring is based just outside of Washington, DC (Tysons Corner)
+coworkers.  AddThis is based just outside of Washington, DC (Tysons Corner)
 and has offices in New York, Los Angeles, and beyond.
 
