@@ -1,8 +1,8 @@
 {
-    "name"        : "clearspring/phetric",
-    "description" : "",
+    "name"        : "addthis/phetric",
+    "description" : "Emit metrics about your application",
     "keywords"    : ["metrics"],
-    "homepage"    : "http://github.com/clearspring/Phetric",
+    "homepage"    : "http://github.com/addthis/Phetric",
     "type"        : "library",
     "license"     : "MIT",
     "authors"     : [
