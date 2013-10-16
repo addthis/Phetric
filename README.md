@@ -1,7 +1,7 @@
 # Phetric
 
 Phetric is a library that allow you to send PHP application-level metrics to a
-catcher (such as [MetricCatcher](https://github.com/clearspring/MetricCatcher))
+catcher (such as [MetricCatcher](https://github.com/addthis/MetricCatcher))
 that then makes them available in a fun and interesting way.
 
 ## License
