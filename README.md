@@ -125,7 +125,7 @@ Phetric was written by [Aaron Jorbin](http://aaron.jorb.in)
 <aaron@jorb.in> while at [AddThis](http://addthis.com).
 
 ## Using Phetric with Composer
-Phetric is available on [packagist](https://packagist.org/packages/addthis/phetric) thanks to https://github.com/ammmze
+Phetric is available on [packagist](https://packagist.org/packages/clearspring/phetric) thanks to https://github.com/ammmze
 
 ## Bugs & so forth
 
