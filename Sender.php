@@ -97,7 +97,7 @@ class Phetric_Sender
     public static function maybeCreatePhetric()
     {
         if (!isset(self::$_instance))
-            self::$_instance = new self(null, null, '');
+            self::$_instance = new self(null, null, '',false);
         
         return self::$_instance;
     }
